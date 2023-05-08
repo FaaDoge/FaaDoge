@@ -5,23 +5,18 @@
 <hr/>
 {  
 
-* 👂 `My name is`: **Sammwy**,
-* 👩 `Pronouns`: **She/Her**,
-* ⚡ `I'm`: **21 years old**,
-* 🌱 `I’m currently learning`: **Rust**,
-* ❤️ `I love`: **Caramel macchiato**  ,
-* 💻 `Favorite lang`: **Rust & TypeScript**  
+*name=**"FaaDoge"**, 
+*email=**"tj.fabricio.sanchez@gmail.com"**,
+*programming_skills=**"Contestant ICPC"**,
+*is_fullstack_developer=**True**,
+*experience_years=**2**
 
 }
 
 <br/>
 
 me = PersonalInfo(
-    *name="Fabricio Sanchez", 
-    *email="tj.fabricio.sanchez@gmail.com",
-    *programming_skills="Contestant ICPC",
-    *is_fullstack_developer=True,
-    *experience_years=2
+    
 )
 
 <br/>
