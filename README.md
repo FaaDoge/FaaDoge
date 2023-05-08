@@ -37,8 +37,7 @@
 
 <p align="center">
 <a href="https://github.com/search?q=user%3Afaadoge1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3Afaadoge1+language%3Acpp"><img alt="C++" src="![image](https://user-images.githubusercontent.com/132334527/236767106-f2b32056-0404-4907-a085-7cefb6e9ab6e.png)
-"></a>
+<a href="https://github.com/search?q=user%3Afaadoge1+language%3Acpp"><img alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"></a>
 <a href="https://github.com/search?q=user%3Afaadoge1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Afaadoge1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Afaadoge1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
