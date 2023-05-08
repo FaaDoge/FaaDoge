@@ -1,11 +1,27 @@
 <h2 align="center">👋 Hi there<br>Welcome to my GitHub profile.</h2>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=faadoge&color=blueviolet"/> 
+</p>
+<hr/>
+{  
+
+* 👂 `My name is`: **Sammwy**,
+* 👩 `Pronouns`: **She/Her**,
+* ⚡ `I'm`: **21 years old**,
+* 🌱 `I’m currently learning`: **Rust**,
+* ❤️ `I love`: **Caramel macchiato**  ,
+* 💻 `Favorite lang`: **Rust & TypeScript**  
+
+}
+
+<br/>
 
 me = PersonalInfo(
-    name="Fabricio Sanchez", 
-    email="tj.fabricio.sanchez@gmail.com",
-    programming_skills="Contestant ICPC",
-    is_fullstack_developer=True,
-    experience_years=2
+    *name="Fabricio Sanchez", 
+    *email="tj.fabricio.sanchez@gmail.com",
+    *programming_skills="Contestant ICPC",
+    *is_fullstack_developer=True,
+    *experience_years=2
 )
 
 <br/>
