@@ -3,13 +3,13 @@
     <img src="https://komarev.com/ghpvc/?username=faadoge&color=blueviolet"/> 
 </p>
 <ul>
-	        <li>{</li>
+	        <h1>{</h1><br>
 		<li> Name = "FaaDoge" </li>
 		<li> Email = "tj.fabricio.sanchez@gmail.com" </li>
 	        <li> Programming Skills = "Contestant ICPC"</li>
 		<li> Full-Stack Developer = Yes </li>
 	        <li> Experience = 2 </li> 
-	        <li>}</li>
+	        <br><h1>}</h1i><br>
 
 <br/>
 <h2 align="center">📊 My GitHub Statistics</h2>
