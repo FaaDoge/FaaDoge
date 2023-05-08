@@ -3,7 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=faadoge&color=blueviolet"/> 
 </p>
 <ul>
-	        {
+	        <h3>{</h3>
 		<li> Name = "FaaDoge" </li>
 		<li> Email = "tj.fabricio.sanchez@gmail.com" </li>
 	        <li> Programming Skills = "Contestant ICPC"</li>
