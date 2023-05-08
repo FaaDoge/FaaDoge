@@ -8,7 +8,7 @@
 <img align='right' src='https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif' width='25%'>  
 
 <ul>
-	        <h3>☕me = PersonalInfo{</h3>
+	        <h3>☕me = PersonalInfo {</h3>
 		<li>🐶Name = "FaaDoge" </li>
 		<li>📧Email = "tj.fabricio.sanchez@gmail.com" </li>
 	        <li>🎯Programming-Skills = "Contestant ICPC"</li>
