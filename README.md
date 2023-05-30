@@ -28,7 +28,7 @@
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=faadoge&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
 </p>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=faadoge&theme=tokyonight"/>
+    <img src="https://github-profile-trophy-sigma-five.vercel.app/?username=faadoge&theme=tokyonight"/>
 </p>
 <h2 align="center">🔧 My Skills</h2>
 	
